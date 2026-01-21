@@ -47,7 +47,7 @@ def set_barcode_4(product_name):	#DO NOT CHANGE THIS LINE
     # Prompt the user for product_name's purchase number
     # and save the result as a integer in the variable prod_num: 
     # "What is product_name's purchase number?"
-    #   Use this exact prompt
+    #   Use this exact prompt but substitute the actual name of the product for 'product_name'
     #   Don't print the quotation marks
     #   Only use one line for this prompt 
     #   Do not leave a space between the apostrophe and the 's'
