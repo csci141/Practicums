@@ -56,7 +56,7 @@ def set_barcode_4(product_name):	#DO NOT CHANGE THIS LINE
     
     
     #TODO 4B
-    # The barcode prefix is the store number 3 represented in binary
+    # The barcode prefix is the store the number 3 represented in binary
     # calculate this and save in variable 'prefix' as a string
     prefix = "0000"
 
