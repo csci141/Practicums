@@ -1,0 +1,3 @@
+Bellingham, .44, 10,8,7
+Paris, 5.00, 6,5,4
+New York, 2.00, 3,2,1
